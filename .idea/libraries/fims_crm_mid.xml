@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fims-crm-mid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/fims-crm-mid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
