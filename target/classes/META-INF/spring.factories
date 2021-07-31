@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.ec.common.db.auth.FimsAuthMybatisConfig,\
+com.ec.common.db.cas.FimsCasMybatisConfig,\
+com.ec.common.db.fi.FimsFiMybatisConfig
